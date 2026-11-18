@@ -2,10 +2,6 @@
 
 # Ciao, sono Francesco Guglielmo 👋
 
-**Studente di Informatica @ UniPD**
-
-<br/>
-
 [![Online Nation](https://img.shields.io/badge/Online_Nation-onlinenation.it-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlinenation.it)
 [![UniPD](https://img.shields.io/badge/UniPD-Informatica-9B0014?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.unipd.it)
 [![ICDL](https://img.shields.io/badge/ICDL-Full_Standard-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.icdl.it)
@@ -24,22 +20,7 @@
 
 - 🎓 Studente all'ultimo anno di **Informatica all'Università degli Studi di Padova**
 - 🌐 Founder di **[Online Nation](https://onlinenation.it)**: siti vetrina ed e-commerce per attività locali in provincia di Padova
-- 🤖 Integro **automazioni AI** nei siti: chatbot, prenotazioni, assistenza clienti
-- ⚡ Fissato con performance, **SEO** e accessibilità (PageSpeed, WCAG 2, PWA)
 - 📍 Provincia di Padova, Italia
-
-## 🛠️ Cosa faccio con Online Nation
-
-| Servizio | Dettagli |
-|---|---|
-| 🖥️ **Siti web** | Siti vetrina ed e-commerce su misura, veloci e mobile-first |
-| 🔎 **SEO & ottimizzazione** | Core Web Vitals, Rank Math, caching, analytics |
-| 🤖 **AI automation** | Chatbot, sistemi di prenotazione, supporto automatizzato |
-| ☁️ **Hosting & domini** | Gestione completa di hosting, DNS e manutenzione |
-
-👉 Dai un'occhiata ai [lavori](https://onlinenation.it/lavori/) (tra cui il case study **Bertazzo Property Hub**) e ai [piani](https://onlinenation.it/prezzi-siti-web/).
-
----
 
 ## 💻 Tech Stack
 
