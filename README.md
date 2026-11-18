@@ -77,8 +77,6 @@
   <img src="https://skillicons.dev/icons?i=astro,react,threejs,wordpress&perline=11" alt="Astro, React, Three.js, WordPress" />
   <br/>
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
   <img src="https://img.shields.io/badge/Elementor_Pro-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor Pro" />
   <img src="https://img.shields.io/badge/Astra-5C2EDE?style=flat-square&logo=wordpress&logoColor=white" alt="Astra" />
