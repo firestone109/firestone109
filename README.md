@@ -13,7 +13,7 @@
 ## 🚀 Chi sono
 
 - 🎓 Studente all'ultimo anno di **Informatica all'Università degli Studi di Padova**
-- 🌐 Founder di **[Online Nation](https://onlinenation.it)**: siti vetrina ed e-commerce per attività locali in provincia di Padova
+- 🌐 Founder di **[Online Nation](https://onlinenation.it)**
 - 📍 Provincia di Padova, Italia
 
 ## 🎓 Progetti universitari
