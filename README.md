@@ -4,8 +4,6 @@
 
 **Studente di Informatica @ UniPD**
 
-<a href="https://onlinenation.it"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Creo+siti+web+veloci+e+ottimizzati+SEO;Automazioni+AI+per+le+attivit%C3%A0+locali;Informatica+%40+Universit%C3%A0+di+Padova;C+%E2%80%A2+Java+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Go" alt="Typing SVG" /></a>
-
 <br/>
 
 [![Online Nation](https://img.shields.io/badge/Online_Nation-onlinenation.it-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlinenation.it)
